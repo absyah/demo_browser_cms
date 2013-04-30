@@ -8,7 +8,7 @@ gem 'rails', '3.2.12'
 gem 'mysql2'
 gem 'debugger'
 gem 'spreadsheet'
-
+gem "browsercms", "= 3.5.6"
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -38,3 +38,5 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem "browsercms", "3.5.6"
